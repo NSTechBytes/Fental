@@ -1,0 +1,11 @@
+[Variables]
+Scale=1
+Background_Color=10,10,10
+Background_Opacity=100
+Accent_Color=9,142,225
+Font_Color=255,255,255
+Font_Face=Poppins
+Plugin=NowPlaying
+PlayerName=WMP
+ScrollMouseIncrement=0.05
+ScrollMouseIncrement2=50
